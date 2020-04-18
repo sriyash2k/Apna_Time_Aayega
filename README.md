@@ -7,4 +7,4 @@ Concepts Used
 
 1) Markov Chains
 
-Refer to the sampleoutput.txt file for output 
+Refer to the output_sample.txt file for output 
